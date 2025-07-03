@@ -1,0 +1,38 @@
+header h1{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    padding-right: 60px;
+   
+}
+nav{
+    text-align: center;
+    margin: 10px 0px;
+    padding: 10px 10px ;
+    background-color: aqua;
+    border-radius: 30px;
+}
+body p{
+    font-size: 22px;
+    text-align: center;
+}
+footer{
+    background-color: brown;
+    padding: 10px;
+    color: white;
+}
+body{
+    text-align: center;
+    font-size: 22px;
+}
+.name_tv{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
